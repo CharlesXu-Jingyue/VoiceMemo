@@ -1,0 +1,3 @@
+([('VoiceMemo',
+   '/Users/alveus/Documents/WorkingDirectory/LocalRepository/VoiceMemo/dist/VoiceMemo',
+   'EXECUTABLE')],)
